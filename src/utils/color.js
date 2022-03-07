@@ -1,0 +1,13 @@
+export const blue = '#16ABF8';
+export const white = '#FFFFFF';
+export const secondary = '#888888'
+export const black = '#111111';
+export const secondary50 = '#4A4A4A'
+export const secondary100 = '#555555'
+export const secondary200 = '#D8D8D8'
+export const secondary300 = '#F4F4F4'
+export const danger = '#ED4C5C'
+export const green = '#00A790'
+export const white100 = '#E5E5E5'
+export const yellow = '#F8A541'
+export const ac = '#8942C1'
